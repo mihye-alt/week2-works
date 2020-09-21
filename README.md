@@ -5,36 +5,36 @@
 	<body>
 		<div class="nav">상단네비게이션 바</div>
 		<div>
-			<div class="container" style=" background-color: blue;"><img src="image/01.png" class="fullsize-img" />
+			<div class="container" style=" background-color: blue;"><img src="image/01.PNG" class="fullsize-img" />
 			</div>
-			<div class="container" style=" background-color: red;"><img src="image/02.png" class="fullsize-img"  />
+			<div class="container" style=" background-color: red;"><img src="image/02.PNG" class="fullsize-img"  />
 			</div>
-			<div class="container" style="background-color: yellow;"><img src="image/03.png" class="fullsize-img"  />
+			<div class="container" style="background-color: yellow;"><img src="image/03.PNG" class="fullsize-img"  />
 			</div>
 			<div>
 				<div class="grid-item">
-					<img src="image/04.png" class="fullsize-img"  />
+					<img src="image/04.PNG" class="fullsize-img"  />
 				</div>
 				<div class="grid-item">
-					<img src="image/05.png" class="fullsize-img"  />
+					<img src="image/05.PNG" class="fullsize-img"  />
 				</div>
 				<div class="grid-item">
-					<img src="image/06.png" class="fullsize-img"  />
+					<img src="image/06.PNG" class="fullsize-img"  />
 				</div>
 				<div class="grid-item">
-					<img src="image/07.png" class="fullsize-img"  />
+					<img src="image/07.PNG" class="fullsize-img"  />
 				</div>
 				<div class="grid-item">
-					<img src="image/08.png" class="fullsize-img"  />
+					<img src="image/08.PNG" class="fullsize-img"  />
 				</div>
 				<div class="grid-item">
-					<img src="image/09.png" class="fullsize-img"  />
+					<img src="image/09.PNG" class="fullsize-img"  />
 				</div>
 				
 			</div>
 		</div>
 		<div class="container" style=" background-color: skyblue; clear: both;">
-			<img src="image/10.png" class="fullsize-img"  />
+			<img src="image/10.PNG" class="fullsize-img"  />
 		</div>
 	</body>
 </html>	
